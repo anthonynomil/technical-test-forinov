@@ -18,6 +18,9 @@
 /*}*/
 
 .button-outlined {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 98px;
   height: 40px;
   object-fit: contain;
