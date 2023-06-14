@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/technical-test-forinov/static/css/main.dd4e6c23.css",
+    "main.js": "/technical-test-forinov/static/js/main.2a1d7c3a.js",
+    "static/media/NunitoSans.ttf": "/technical-test-forinov/static/media/NunitoSans.61b71ee93d55d9bddead.ttf",
+    "static/media/OpenSans.ttf": "/technical-test-forinov/static/media/OpenSans.071a1becc7f00e33cc5b.ttf",
+    "static/media/external-website.svg": "/technical-test-forinov/static/media/external-website.b7787e365597485240b5bd75082e9522.svg",
+    "static/media/pdf-button.svg": "/technical-test-forinov/static/media/pdf-button.9984eaea73d0fc1221aa7cd8a840ddcd.svg",
+    "static/media/crunchbase.svg": "/technical-test-forinov/static/media/crunchbase.bd9024387ab020ad099cc922d631a4b4.svg",
+    "static/media/twitter.svg": "/technical-test-forinov/static/media/twitter.60f065f9913ba22a6e9c47453f86c5bf.svg",
+    "static/media/linkedin.svg": "/technical-test-forinov/static/media/linkedin.ab57127c9080fb7442cd1c0b0bbf8490.svg",
+    "index.html": "/technical-test-forinov/index.html",
+    "static/media/info.svg": "/technical-test-forinov/static/media/info.921b61fef328e7d7d2bb665c8eb650a6.svg",
+    "static/media/info-dot.svg": "/technical-test-forinov/static/media/info-dot.4d25cd9444d62b8473a4c097a14f6e7c.svg",
+    "static/media/map-localisation.svg": "/technical-test-forinov/static/media/map-localisation.1ddb6f5cab677232e73904195186bf9a.svg",
+    "static/media/facebook.svg": "/technical-test-forinov/static/media/facebook.46a44ec20e8f32d78ea12daaca13e086.svg",
+    "main.dd4e6c23.css.map": "/technical-test-forinov/static/css/main.dd4e6c23.css.map",
+    "main.2a1d7c3a.js.map": "/technical-test-forinov/static/js/main.2a1d7c3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4e6c23.css",
+    "static/js/main.2a1d7c3a.js"
+  ]
+}
