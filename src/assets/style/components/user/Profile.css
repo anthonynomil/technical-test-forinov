@@ -1,0 +1,306 @@
+@font-face {
+  font-family: NunitoSans;
+  src: url(../../../fonts/NunitoSans.ttf);
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url(../../../fonts/OpenSans.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../../../fonts/OpenSans.ttf);
+}
+
+/** {*/
+/*  outline: 1px red solid;*/
+/*}*/
+
+.button-outlined {
+  width: 98px;
+  height: 40px;
+  object-fit: contain;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+  background-color: transparent;
+}
+
+.button-outlined:active {
+  border: solid 2px #c7c7c7;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  width: 928px;
+  height: 560px;
+}
+
+.background {
+  width: 928px;
+  height: 192px;
+  border-radius: 15px 15px 0 0;
+  object-fit: fill;
+}
+
+.main {
+  width: 928px;
+  height: 368px;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.07);
+  border-radius: 0 0 15px 15px;
+  background-color: #27292f;
+  display: flex;
+  flex-direction: row;
+}
+
+.rightPanel {
+  width: 100%;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  margin: -48px 16px 16px;
+  border-radius: 76px;
+  border: solid 3px #27292f;
+}
+
+.pdf {
+  display: flex;
+  justify-content: center;
+}
+
+.infos {
+  display: flex;
+  flex-direction: column;
+  padding: 16px 16px 0 16px;
+}
+
+.mainInfos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.name h1 {
+  width: 352px;
+  height: 40px;
+  margin: 0 120px 6px 0;
+  font-family: NunitoSans, serif;
+  font-size: 24px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.2px;
+  color: #fff;
+}
+
+.dots {
+  margin-right: 24px;
+}
+
+.contactInfos {
+  display: flex;
+  margin-left: -8px;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0 8px;
+}
+
+.info p {
+  margin: 0 8px;
+  font-family: OpenSans, serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.1px;
+  color: #fff;
+}
+
+.website {
+  margin: 0 8px;
+  font-family: OpenSans, serif;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0 4px;
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+
+.description {
+  margin: 16px 0 0;
+  font-family: OpenSans, serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.1px;
+  color: #fff;
+}
+
+.bottomInfos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.categories {
+  display: flex;
+  flex-direction: column;
+}
+
+.category {
+  margin-top: 16px;
+}
+
+.category span {
+  font-family: OpenSans, serif;
+  background-color: #ffffff;
+  border-radius: 6px;
+  color: dodgerblue;
+  padding: 8px;
+}
+
+.subcategories {
+  margin: 32px 0 0 0;
+}
+
+.subcategories span {
+  padding: 6px;
+  margin-right: 8px;
+  background-color: #ffffff;
+  color: dodgerblue;
+  border-radius: 6px;
+}
+
+.followButtons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 72px;
+}
+
+.button-filled {
+  width: 156px;
+  height: 40px;
+  object-fit: contain;
+  background-color: #ffffff;
+  color: dodgerblue;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+}
+
+.followButtons button,
+svg {
+  margin-right: 8px;
+}
+
+.divider {
+  margin: 16px 24px 0 16px;
+  border-top: solid 1px #e7e7e7;
+}
+
+.footer {
+  padding: 16px 24px 0 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.collaborators {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.collaborators a {
+  margin-right: 8px;
+  color: #ffffff;
+  font-family: OpenSans, serif;
+  font-weight: bold;
+  font-stretch: ultra-expanded;
+}
+
+.shape {
+  width: 0;
+  height: 0;
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+
+  border-left: 4px solid #ffffff;
+  border-radius: 1px;
+}
+
+.progressBar {
+  margin-top: 16px;
+}
+
+.indexedStep {
+  color: white;
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  background-color: #ffffff;
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.indexedStep.accomplished {
+  background-color: #ffffff;
+  border: 3px solid dodgerblue;
+}
+
+.stepText {
+  display: none;
+}
+
+.indexedStep.accomplished:hover + .stepText {
+  display: block;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: -60px;
+  padding: 5px;
+  border-radius: 5px;
+  width: fit-content;
+  height: 100%;
+  font-family: OpenSans, serif;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: dodgerblue;
+  background-color: #27292f;
+  white-space: nowrap;
+}
