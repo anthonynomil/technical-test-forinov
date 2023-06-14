@@ -97,12 +97,7 @@ const Profile = ({ company }) => {
                 {company.socials.map((social, index) => handleSocials(social))}
               </div>
             </div>
-            <div className={"description"}>
-              lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. duis aute irure dolor in
-            </div>
+            <div className={"description"}>{company.description}</div>
             <div className={"bottomInfos"}>
               <div className={"categories"}>
                 <div className={"category"}>

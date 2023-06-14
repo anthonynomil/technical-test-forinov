@@ -9,7 +9,7 @@ function App() {
       country: "FR",
     },
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+      "Jubiwee est une application web qui mesure automatiquement le ressenti des collaborateurs, détecte les signaux faibles et populations à risque. Elle génère également des plans d’actions pour donner aux managers les meilleures actions pour réduire le turnover, l’absentéisme et améliorer l’engagement dans leur équipe.",
     avatar: "https://dev.forinov.fr/pictures/incubateur/3/logo.jpg",
     background: "https://dev.forinov.fr/pictures/incubateur/3/crop_image.jpg",
     website: "https://www.demo.com/",
