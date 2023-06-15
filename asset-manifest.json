@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/technical-test-forinov/static/css/main.5409f9ed.css",
+    "main.css": "/technical-test-forinov/static/css/main.920533ad.css",
     "main.js": "/technical-test-forinov/static/js/main.6fbbb99c.js",
     "static/media/NunitoSans.ttf": "/technical-test-forinov/static/media/NunitoSans.61b71ee93d55d9bddead.ttf",
     "static/media/OpenSans.ttf": "/technical-test-forinov/static/media/OpenSans.071a1becc7f00e33cc5b.ttf",
@@ -14,11 +14,11 @@
     "static/media/info-dot.svg": "/technical-test-forinov/static/media/info-dot.4d25cd9444d62b8473a4c097a14f6e7c.svg",
     "static/media/map-localisation.svg": "/technical-test-forinov/static/media/map-localisation.1ddb6f5cab677232e73904195186bf9a.svg",
     "static/media/facebook.svg": "/technical-test-forinov/static/media/facebook.46a44ec20e8f32d78ea12daaca13e086.svg",
-    "main.5409f9ed.css.map": "/technical-test-forinov/static/css/main.5409f9ed.css.map",
+    "main.920533ad.css.map": "/technical-test-forinov/static/css/main.920533ad.css.map",
     "main.6fbbb99c.js.map": "/technical-test-forinov/static/js/main.6fbbb99c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5409f9ed.css",
+    "static/css/main.920533ad.css",
     "static/js/main.6fbbb99c.js"
   ]
 }
